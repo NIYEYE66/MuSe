@@ -1,6 +1,6 @@
 # MuSe
 
-here is the code and dataset for MuSe
+Code and dataset for our ACL main conference paper, MuSe: Multi-Stage Graph Reasoning via Vision-Language Models
 
 code in swift is used to train GRPO with ms-swift
 
